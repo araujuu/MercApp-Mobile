@@ -11,7 +11,7 @@ Aplicativo de controle de produtos de mercado, desenvolvido com React Native usa
   npm install -g expo-cli
   <hr>
   npx expo start
-
+  <hr>
   ## Banco De Dados
 
   Utilizamos o Banco De Dados não relacional do Google - <strong>firebase</strong> - <br>
