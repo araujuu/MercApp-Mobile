@@ -3,9 +3,13 @@
 Aplicativo de controle de produtos de mercado, desenvolvido com React Native usando o Expo.
 
 ## ✅ Pré-requisitos - instale as dependências: 
+  <br>
   Aplicativo Expo-Dev (Scan QrCode do terminal para abrir o projeto) - esteja na mesma rede.
+  <hr>
   npm install
+  <hr>
   npm install -g expo-cli
+  <hr>
   npx expo start
 
   ## Banco De Dados
