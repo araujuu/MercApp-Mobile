@@ -19,4 +19,8 @@ Aplicativo de controle de produtos de mercado, desenvolvido com React Native usa
   Nisso, para utiliza-lo no seu proprio banco, recomendamos que cadastre seu banco do firebase <br>
   no firebaseconfig.ts no código.
   
+<<<<<<< HEAD
   <a href="https://firebase.google.com/?hl=pt-br" alt="link-firebase">Link Firebase</a>
+=======
+  <a href="https://firebase.google.com/?hl=pt-br" alt="link-firebase">Link Firebase</a>
+>>>>>>> e3791d22aa4a41f83a3417d6c908760a94923fe0
