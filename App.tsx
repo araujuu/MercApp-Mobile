@@ -1,7 +1,7 @@
 // App.tsx
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import StackNavigator from './MercApp-Mobile/src/navigation/StackNavigator';
+import StackNavigator from './src/navigation/StackNavigator';
 
 export default function App() {
   return (

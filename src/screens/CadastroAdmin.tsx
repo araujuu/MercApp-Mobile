@@ -78,16 +78,6 @@ export default function CadastroAdmin({ navigation }: Props) {
         onChangeText={setSenha}
       />
 
-      <Text style={styles.label}>Código Secreto</Text>
-      <TextInput
-        style={styles.input}
-        secureTextEntry
-        placeholder="Digite o código secreto"
-        placeholderTextColor="#999"
-        value={codigoSecreto}
-        onChangeText={setCodigoSecreto}
-      />
-
       <Text style={styles.label}>Confirmar senha</Text>
       <TextInput
         style={styles.input}
@@ -98,6 +88,16 @@ export default function CadastroAdmin({ navigation }: Props) {
         onChangeText={setConfirmarSenha}
       />
 
+      <Text style={styles.label}>Código Secreto</Text>
+      <TextInput
+        style={styles.input}
+        secureTextEntry
+        placeholder="Digite o código secreto"
+        placeholderTextColor="#999"
+        value={codigoSecreto}
+        onChangeText={setCodigoSecreto}
+      />
+      
       <TouchableOpacity style={styles.button} onPress={cadastrar}>
         <Text style={styles.buttonText}>Cadastrar</Text>
       </TouchableOpacity>
